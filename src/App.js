@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../src/assets/css/animate.min.css'
@@ -16,7 +15,6 @@ import { Route, Routes } from 'react-router-dom';
 import Home from './component/Home';
 import About from './component/About';
 import Contact from './component/Contact';
-import Header from './component/Header';
 import Insurance from './component/Insurance';
 
 function App() {

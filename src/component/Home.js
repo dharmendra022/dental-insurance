@@ -34,8 +34,8 @@ const Home = () => {
                                         <h1>We Provide <span>Dental</span> Insurance Services That You Can <span>Trust!</span></h1>
                                         <p>Protect your smile and your budget with our comprehensive dental insurance plans. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed nisl pellentesque, faucibus libero eu, gravida quam.</p>
                                         <div className="button">
-                                            <a href="#" className="btn">Get Coverage</a>
-                                            <a href="#" className="btn primary">Learn More</a>
+                                            <a href="/" className="btn">Get Coverage</a>
+                                            <a href="/" className="btn primary">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -113,7 +113,7 @@ const Home = () => {
                         <div className="col-lg-12">
                             <div className="section-title">
                                 <h2>We Are Always Ready to Help You & Your Family</h2>
-                                <img src={sectionimg} alt="#" />
+                                <img src={sectionimg} alt="/" />
                                 <p>Secure your smile with our comprehensive dental insurance plans. From routine check-ups to emergency care, we've got you covered.</p>
                             </div>
                         </div>
@@ -286,8 +286,8 @@ const Home = () => {
                                 <h2>Need Emergency Dental Care? Call Us at 1234 56789</h2>
                                 <p>We're here to provide immediate assistance for your dental emergencies. Get the care you need when you need it most.</p>
                                 <div className="button">
-                                    <a href="#" className="btn">Contact Now</a>
-                                    <a href="#" className="btn second">Learn More<i className="fas fa-long-arrow-right"></i></a>
+                                    <a href="/" className="btn">Contact Now</a>
+                                    <a href="/" className="btn second">Learn More<i className="fas fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -315,35 +315,35 @@ const Home = () => {
                         <div className="col-lg-12 col-12">
                             <div className="owl-carousel portfolio-slider">
                                 <div className="single-pf">
-                                    <img src={pf1} alt="#" />
+                                    <img src={pf1} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                                 <div className="single-pf">
-                                    <img src={pf2} alt="#" />
+                                    <img src={pf2} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                                 <div className="single-pf">
-                                    <img src={pf3} alt="#" />
+                                    <img src={pf3} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                                 <div className="single-pf">
-                                    <img src={pf4} alt="#" />
+                                    <img src={pf4} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                                 <div className="single-pf">
-                                    <img src={pf1} alt="#" />
+                                    <img src={pf1} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                                 <div className="single-pf">
-                                    <img src={pf2} alt="#" />
+                                    <img src={pf2} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                                 <div className="single-pf">
-                                    <img src={pf3} alt="#" />
+                                    <img src={pf3} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                                 <div className="single-pf">
-                                    <img src={pf4} alt="#" />
+                                    <img src={pf4} alt="/" />
                                     <a href="portfolio-details.html" className="btn">View Details</a>
                                 </div>
                             </div>
@@ -464,7 +464,7 @@ const Home = () => {
                                     <li className="cross"><i className="fas fa-times"></i>Orthodontics</li>
                                 </ul>
                                 <div className="table-bottom">
-                                    <a className="btn" href="#">Get Started</a>
+                                    <a className="btn" href="/">Get Started</a>
                                 </div>
                                 {/* <!-- Table Bottom --> */}
                             </div>
@@ -492,7 +492,7 @@ const Home = () => {
                                     <li className="cross"><i className="fas fa-times"></i>Orthodontics</li>
                                 </ul>
                                 <div className="table-bottom">
-                                    <a className="btn" href="#">Get Started</a>
+                                    <a className="btn" href="/">Get Started</a>
                                 </div>
                                 {/* <!-- Table Bottom --> */}
                             </div>
@@ -520,7 +520,7 @@ const Home = () => {
                                     <li><i className="fas fa-check"></i>Orthodontics</li>
                                 </ul>
                                 <div className="table-bottom">
-                                    <a className="btn" href="#">Get Started</a>
+                                    <a className="btn" href="/">Get Started</a>
                                 </div>
                                 {/* <!-- Table Bottom --> */}
                             </div>
@@ -539,31 +539,31 @@ const Home = () => {
                         <div className="col-lg-12 col-md-12 col-12">
                             <div className="owl-carousel clients-slider">
                                 <div className="single-clients">
-                                    <img src={client1} alt="#" />
+                                    <img src={client1} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client2} alt="#" />
+                                    <img src={client2} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client3} alt="#" />
+                                    <img src={client3} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client4} alt="#" />
+                                    <img src={client4} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client5} alt="#" />
+                                    <img src={client5} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client1} alt="#" />
+                                    <img src={client1} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client2} alt="#" />
+                                    <img src={client2} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client3} alt="#" />
+                                    <img src={client3} alt="/" />
                                 </div>
                                 <div className="single-clients">
-                                    <img src={client4} alt="#" />
+                                    <img src={client4} alt="/" />
                                 </div>
                             </div>
                         </div>
@@ -579,14 +579,14 @@ const Home = () => {
                         <div className="col-lg-12">
                             <div className="section-title">
                                 <h2>We Are Always Ready to Help You. Book An Appointment</h2>
-                                <img src={sectionimg} alt="#" />
+                                <img src={sectionimg} alt="/" />
                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p>
                             </div>
                         </div>
                     </div>
                     <div className="row">
                         <div className="col-lg-6 col-md-12 col-12">
-                            <form className="form" action="#">
+                            <form className="form" action="/">
                                 <div className="row">
                                     <div className="col-lg-6 col-md-6 col-12">
                                         <div className="form-group">
@@ -657,7 +657,7 @@ const Home = () => {
                         </div>
                         <div className="col-lg-6 col-md-12 ">
                             <div className="appointment-image">
-                                <img src={contactimg} alt="#" />
+                                <img src={contactimg} alt="/" />
                             </div>
                         </div>
                     </div>

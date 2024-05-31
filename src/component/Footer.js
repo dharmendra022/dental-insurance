@@ -15,11 +15,11 @@ const Footer = () => {
                                     <p>Welcome to Your Dental Insurance Company Name, where we are dedicated to providing comprehensive dental insurance coverage to individuals and families across the nation. Our mission is to ensure that everyone has access to high-quality dental care without financial barriers.</p>
                                     {/* <!-- Social --> */}
                                     <ul className="social">
-                                        <li><a href="#"><i className="fab fa-facebook"></i></a></li>
-                                        <li><a href="#"><i className="fab fa-google-plus-g"></i></a></li>
-                                        <li><a href="#"><i className="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i className="fab fa-vimeo-v"></i></a></li>
-                                        <li><a href="#"><i className="fab fa-pinterest"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-facebook"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-twitter"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-vimeo-v"></i></a></li>
+                                        <li><a href="/"><i className="fab fa-pinterest"></i></a></li>
                                     </ul>
                                     {/* <!-- End Social --> */}
                                 </div>
