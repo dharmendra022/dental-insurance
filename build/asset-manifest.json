@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ac0fd3a.css",
+    "main.js": "/static/js/main.d6846c83.js",
+    "static/js/453.d84f5b11.chunk.js": "/static/js/453.d84f5b11.chunk.js",
+    "static/media/call-bg.jpg": "/static/media/call-bg.61f87d43a8e07f7aef6d.jpg",
+    "static/media/contact-img.png": "/static/media/contact-img.54eb15e50313e5510c5f.png",
+    "static/media/video-bg.jpg": "/static/media/video-bg.69c4a1f126487adc3459.jpg",
+    "static/media/testi-bg.jpg": "/static/media/testi-bg.f74752263bd42d3a5725.jpg",
+    "static/media/signup-bg.jpg": "/static/media/signup-bg.367a43e9a587085298b9.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.79b0ec261c19674372eb.jpg",
+    "static/media/slider.jpg": "/static/media/slider.a3fb5e0fb2069a69cb94.jpg",
+    "static/media/mission-img.jpg": "/static/media/mission-img.5bf2c776151fae887dd7.jpg",
+    "static/media/fun-bg.jpg": "/static/media/fun-bg.1d5c36fe2cb4463d4e09.jpg",
+    "static/media/blockqoute-bg.jpg": "/static/media/blockqoute-bg.532159996bc36d06578c.jpg",
+    "static/media/bread-bg.jpg": "/static/media/bread-bg.1510c22fd1181450e197.jpg",
+    "static/media/client-bg.jpg": "/static/media/client-bg.7f4dc2634ceb281aff8e.jpg",
+    "static/media/pf3.jpg": "/static/media/pf3.f2f7c501a849dd84b8e4.jpg",
+    "static/media/pf2.jpg": "/static/media/pf2.ec977a95cfc87dbf18c0.jpg",
+    "static/media/pf1.jpg": "/static/media/pf1.b716997704cde2de8f6b.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0ac0fd3a.css.map": "/static/css/main.0ac0fd3a.css.map",
+    "main.d6846c83.js.map": "/static/js/main.d6846c83.js.map",
+    "453.d84f5b11.chunk.js.map": "/static/js/453.d84f5b11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac0fd3a.css",
+    "static/js/main.d6846c83.js"
+  ]
+}
