@@ -57,7 +57,7 @@ const Footer = () => {
                                     <form action="mail/mail.php" method="get" target="_blank" className="newsletter-inner">
                                         <input name="email" placeholder="Email Address" className="common-input" onfocus="this.placeholder = ''"
                                             onblur="this.placeholder = 'Your email address'" required="" type="email" />
-                                        <button className="button"><i className="icofont icofont-paper-plane"></i></button>
+                                         <button class="button"><i class="fas fa-paper-plane"></i> Send</button>
                                     </form>
                                 </div>
                             </div>
