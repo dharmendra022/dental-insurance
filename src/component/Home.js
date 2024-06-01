@@ -13,7 +13,6 @@ import client5 from '../assets/img/client5.png'
 import contactimg from '../assets/img/contact-img.png'
 import Footer from './Footer'
 import Header from './Header'
-import { FaStethoscope } from "react-icons/fa";
 
 const Home = () => {
     return (
