@@ -15,7 +15,7 @@ const Contact = () => {
                                 <h2>Contact Us</h2>
                                 <ul className="bread-list">
                                     <li><a href="/">Home</a></li>
-                                    <li><i className="icofont-simple-right"></i></li>
+                                    <li><i class="fas fa-chevron-right"></i></li>
                                     <li className="active">Contact Us</li>
                                 </ul>
                             </div>
@@ -99,7 +99,7 @@ const Contact = () => {
                             {/* <!-- single-info --> */}
                             <div className="col-lg-4 col-12 ">
                                 <div className="single-info">
-                                    <i className="icofont icofont-ui-call"></i>
+                                <i class="fas fa-phone"></i>
                                     <div className="content">
                                         <h3>+(000) 1234 56789</h3>
                                         <p>info@company.com</p>
@@ -110,7 +110,7 @@ const Contact = () => {
                             <!-- single-info --> */}
                             <div className="col-lg-4 col-12 ">
                                 <div className="single-info">
-                                    <i className="icofont-google-map"></i>
+                                <i class="fas fa-map-marker-alt"></i>
                                     <div className="content">
                                         <h3>2 Fir e Brigade Road</h3>
                                         <p>Chittagonj, Lakshmipur</p>
@@ -121,7 +121,7 @@ const Contact = () => {
                             <!-- single-info --> */}
                             <div className="col-lg-4 col-12 ">
                                 <div className="single-info">
-                                    <i className="icofont icofont-wall-clock"></i>
+                                <i class="fas fa-clock"></i>
                                     <div className="content">
                                         <h3>Mon - Sat: 8am - 5pm</h3>
                                         <p>Sunday Closed</p>
