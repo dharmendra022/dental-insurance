@@ -13,12 +13,13 @@ import client5 from '../assets/img/client5.png'
 import contactimg from '../assets/img/contact-img.png'
 import Footer from './Footer'
 import Header from './Header'
+import { FaStethoscope } from "react-icons/fa";
 
 const Home = () => {
     return (
         <div>
             {/* <!-- Header Area --> */}
-            <Header/>
+            <Header />
 
             {/* <!-- End Header Area --> */}
 
@@ -71,7 +72,7 @@ const Home = () => {
                                 <div className="single-schedule middle">
                                     <div className="inner">
                                         <div className="icon">
-                                            <i className="icofont-dentist-chair"></i>
+                                        <i class="fas fa-chair"></i>
                                         </div>
                                         <div className="single-content">
                                             <span>Expert Dentists</span>
@@ -88,7 +89,7 @@ const Home = () => {
                                 <div className="single-schedule last">
                                     <div className="inner">
                                         <div className="icon">
-                                            <i className="icofont-time"></i>
+                                        <i class="fas fa-clock"></i>
                                         </div>
                                         <div className="single-content">
                                             <span>Flexible Hours</span>
@@ -123,7 +124,7 @@ const Home = () => {
 
                             <div className="single-features">
                                 <div className="signle-icon">
-                                    <i className="icofont icofont-ambulance-cross"></i>
+                                <i class="fas fa-ambulance"></i>
                                 </div>
                                 <h3>Emergency Help</h3>
                                 <p>Immediate assistance for unexpected dental emergencies. We provide fast, effective care when you need it most.</p>
@@ -134,7 +135,7 @@ const Home = () => {
 
                             <div className="single-features">
                                 <div className="signle-icon">
-                                    <i className="icofont icofont-medical-sign-alt"></i>
+                                <i class="fas fa-medkit"></i>
                                 </div>
                                 <h3>Comprehensive Coverage</h3>
                                 <p>Our plans cover routine check-ups, cleanings, and major dental procedures to keep your oral health in top condition.</p>
@@ -145,7 +146,7 @@ const Home = () => {
 
                             <div className="single-features last">
                                 <div className="signle-icon">
-                                    <i className="icofont icofont-stethoscope"></i>
+                                    <i class="fas fa-stethoscope"></i>
                                 </div>
                                 <h3>Preventive Care</h3>
                                 <p>Regular preventive care to maintain healthy teeth and gums. Enjoy no waiting periods for preventive services.</p>
@@ -167,7 +168,7 @@ const Home = () => {
                         <div className="col-lg-3 col-md-6 col-12">
                             {/* <!-- Start Single Fun --> */}
                             <div className="single-fun">
-                                <i className="icofont icofont-home"></i>
+                            <i class="fas fa-home"></i>
                                 <div className="content">
                                     <span className="counter">3468</span>
                                     <p>Hospital Rooms</p>
@@ -178,7 +179,7 @@ const Home = () => {
                         <div className="col-lg-3 col-md-6 col-12">
                             {/* <!-- Start Single Fun --> */}
                             <div className="single-fun">
-                                <i className="icofont icofont-user-alt-3"></i>
+                            <i class="fas fa-user"></i>
                                 <div className="content">
                                     <span className="counter">557</span>
                                     <p>Specialist Doctors</p>
@@ -189,7 +190,7 @@ const Home = () => {
                         <div className="col-lg-3 col-md-6 col-12">
                             {/* <!-- Start Single Fun --> */}
                             <div className="single-fun">
-                                <i className="icofont-simple-smile"></i>
+                            <i class="fas fa-smile"></i>
                                 <div className="content">
                                     <span className="counter">4379</span>
                                     <p>Happy Patients</p>
@@ -200,7 +201,7 @@ const Home = () => {
                         <div className="col-lg-3 col-md-6 col-12">
                             {/* <!-- Start Single Fun --> */}
                             <div className="single-fun">
-                                <i className="icofont icofont-table"></i>
+                            <i class="fas fa-table"></i>
                                 <div className="content">
                                     <span className="counter">32</span>
                                     <p>Years of Experience</p>
@@ -369,7 +370,7 @@ const Home = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-prescription"></i>
+                                <i class="fas fa-stethoscope"></i>
                                 <h4><a href="service-details.html">Preventive Care</a></h4>
                                 <p>Our insurance covers routine check-ups and cleanings to maintain your oral health and prevent any dental issues.</p>
                             </div>
@@ -378,7 +379,7 @@ const Home = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-tooth"></i>
+                                <i class="fas fa-tooth"></i>
                                 <h4><a href="service-details.html">Restorative Treatments</a></h4>
                                 <p>From fillings to crowns, our insurance ensures you receive the necessary treatments to restore your smile.</p>
                             </div>
@@ -387,7 +388,7 @@ const Home = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-heart-alt"></i>
+                                <i class="fas fa-heart"></i>
                                 <h4><a href="service-details.html">Cosmetic Procedures</a></h4>
                                 <p>Enhance your smile with our coverage for teeth whitening, veneers, and other cosmetic dental services.</p>
                             </div>
@@ -396,7 +397,7 @@ const Home = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-listening"></i>
+                                <i class="fas fa-deaf"></i>
                                 <h4><a href="service-details.html">Orthodontics</a></h4>
                                 <p>Our plans cover orthodontic treatments like braces and aligners to help you achieve a perfectly aligned smile.</p>
                             </div>
@@ -405,7 +406,7 @@ const Home = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-eye-alt"></i>
+                            <i class="fas fa-eye"></i>
                                 <h4><a href="service-details.html">Dental Implants</a></h4>
                                 <p>We provide coverage for dental implants, ensuring you have access to long-lasting solutions for missing teeth.</p>
                             </div>
@@ -414,7 +415,7 @@ const Home = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-blood"></i>
+                            <i class="fas fa-tint"></i>
                                 <h4><a href="service-details.html">Emergency Dental Care</a></h4>
                                 <p>Get immediate attention for dental emergencies with our comprehensive insurance plans that cover urgent care.</p>
                             </div>

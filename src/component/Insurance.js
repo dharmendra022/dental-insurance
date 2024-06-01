@@ -8,7 +8,8 @@ const Insurance = () => {
     <div>
         <Header/>
                    {/* <!-- Start service --> */}
-                   <section className="services section">
+                              {/* <!-- Start service --> */}
+            <section className="services section">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">
@@ -23,7 +24,7 @@ const Insurance = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-prescription"></i>
+                                <i class="fas fa-stethoscope"></i>
                                 <h4><a href="service-details.html">Preventive Care</a></h4>
                                 <p>Our insurance covers routine check-ups and cleanings to maintain your oral health and prevent any dental issues.</p>
                             </div>
@@ -32,7 +33,7 @@ const Insurance = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-tooth"></i>
+                                <i class="fas fa-tooth"></i>
                                 <h4><a href="service-details.html">Restorative Treatments</a></h4>
                                 <p>From fillings to crowns, our insurance ensures you receive the necessary treatments to restore your smile.</p>
                             </div>
@@ -41,7 +42,7 @@ const Insurance = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-heart-alt"></i>
+                                <i class="fas fa-heart"></i>
                                 <h4><a href="service-details.html">Cosmetic Procedures</a></h4>
                                 <p>Enhance your smile with our coverage for teeth whitening, veneers, and other cosmetic dental services.</p>
                             </div>
@@ -50,7 +51,7 @@ const Insurance = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-listening"></i>
+                                <i class="fas fa-deaf"></i>
                                 <h4><a href="service-details.html">Orthodontics</a></h4>
                                 <p>Our plans cover orthodontic treatments like braces and aligners to help you achieve a perfectly aligned smile.</p>
                             </div>
@@ -59,7 +60,7 @@ const Insurance = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-eye-alt"></i>
+                            <i class="fas fa-eye"></i>
                                 <h4><a href="service-details.html">Dental Implants</a></h4>
                                 <p>We provide coverage for dental implants, ensuring you have access to long-lasting solutions for missing teeth.</p>
                             </div>
@@ -68,7 +69,7 @@ const Insurance = () => {
                         <div className="col-lg-4 col-md-6 col-12">
                             {/* <!-- Start Single Service --> */}
                             <div className="single-service">
-                                <i className="icofont icofont-blood"></i>
+                            <i class="fas fa-tint"></i>
                                 <h4><a href="service-details.html">Emergency Dental Care</a></h4>
                                 <p>Get immediate attention for dental emergencies with our comprehensive insurance plans that cover urgent care.</p>
                             </div>
